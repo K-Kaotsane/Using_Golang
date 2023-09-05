@@ -2,7 +2,7 @@ package main //package tells application to get ready
 
 import (
 	"fmt"
-) // if line 6 fail type import (fmt) like here
+) //  type 'fmt' in import incase line 11 fails )
 
 func main() { //main entry point, this is where the code runs and displays on the terminal
 	/*|-> if you create a new file in the new folder, main should change to the name of file
